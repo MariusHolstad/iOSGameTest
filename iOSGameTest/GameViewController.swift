@@ -56,10 +56,10 @@ class GameViewController: UIViewController {
         scnView.allowsCameraControl = true
         
         // configure the camera control behaviour
-        scnView.defaultCameraController?.interactionMode = .fly
-        scnView.defaultCameraController?.inertiaEnabled = true
-        scnView.defaultCameraController?.maximumVerticalAngle = 30 //degrees
-        scnView.defaultCameraController?.maximumHorizontalAngle = 30 //degrees
+//        scnView.defaultCameraController?.interactionMode = .fly
+//        scnView.defaultCameraController?.inertiaEnabled = true
+//        scnView.defaultCameraController?.maximumVerticalAngle = 30 //degrees
+//        scnView.defaultCameraController?.maximumHorizontalAngle = 30 //degrees
 //        scnView.defaultCameraController?.
         
         // show statistics such as fps and timing information
